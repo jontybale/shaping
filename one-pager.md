@@ -1,10 +1,10 @@
 # One Pager Title
 
-Summary: A pithy summary of the work
-Author: @jontybale
-Status: `IN PROGRESS`
-Shaping participants: List of people involved in planning
-Desired outcome: Summart of the business outcome and idealy some measaures of success
+Summary: A pithy summary of the work  
+Author: @jontybale  
+Status: `IN PROGRESS`  
+Shaping participants: List of people involved in planning  
+Desired outcome: Summart of the business outcome and idealy some measaures of success  
 
 ## Summary
 
